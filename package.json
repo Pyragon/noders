@@ -1,0 +1,24 @@
+{
+  "name": "noders",
+  "version": "1.0.0",
+  "description": "An RSPS framework written for NodeJS.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pyragon/noders.git"
+  },
+  "keywords": [
+    "Node",
+    "RS",
+    "RSPS"
+  ],
+  "author": "Pyragon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pyragon/noders/issues"
+  },
+  "homepage": "https://github.com/pyragon/noders#readme"
+}
