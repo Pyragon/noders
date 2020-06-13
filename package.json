@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/pyragon/noders/issues"
   },
-  "homepage": "https://github.com/pyragon/noders#readme"
+  "homepage": "https://github.com/pyragon/noders#readme",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
 }
